@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-### Reg No:212224230081
-### Name: HARINE S
-### Date:16.03.2026
+### Reg No:212224230256
+### Name: Sathish kumar .M
+### Date:18.03.2026
 
 # AIM:
 To develop the Hospital Management System using Star UML.
